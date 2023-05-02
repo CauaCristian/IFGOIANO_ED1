@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/Lista_3/Lista_3.iml" filepath="$PROJECT_DIR$/Lista_3/Lista_3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lista_4/Lista_4.iml" filepath="$PROJECT_DIR$/Lista_4/Lista_4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Problema_Josephus/Problema_Josephus.iml" filepath="$PROJECT_DIR$/Problema_Josephus/Problema_Josephus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TorreDeHanoiPilha/TorreDeHanoiPilha.iml" filepath="$PROJECT_DIR$/TorreDeHanoiPilha/TorreDeHanoiPilha.iml" />
     </modules>
   </component>
 </project>
