@@ -3,7 +3,7 @@ public class No {
     No proximo;
 
     public No(String dado) {
-        this.dado = data;
+        this.dado = dado;
         this.proximo = null;
     }
 }
