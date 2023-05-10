@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ex_Lista_Encadeada/Ex_Lista_Encadeada.iml" filepath="$PROJECT_DIR$/Ex_Lista_Encadeada/Ex_Lista_Encadeada.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ex_PILHA/Ex_PILHA.iml" filepath="$PROJECT_DIR$/Ex_PILHA/Ex_PILHA.iml" />
       <module fileurl="file://$PROJECT_DIR$/IFGOIANO_ED1.iml" filepath="$PROJECT_DIR$/IFGOIANO_ED1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lista_2/Lista_2.iml" filepath="$PROJECT_DIR$/Lista_2/Lista_2.iml" />
