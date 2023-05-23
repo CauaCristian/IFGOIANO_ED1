@@ -2,12 +2,20 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Atividade_1/Atividade_1.iml" filepath="$PROJECT_DIR$/Atividade_1/Atividade_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividade_3/Atividade_3.iml" filepath="$PROJECT_DIR$/Atividade_3/Atividade_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista_5/Ex1/Ex1.iml" filepath="$PROJECT_DIR$/Lista_5/Ex1/Ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista_5/Ex2/Ex2.iml" filepath="$PROJECT_DIR$/Lista_5/Ex2/Ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista_5/Ex3/Ex3.iml" filepath="$PROJECT_DIR$/Lista_5/Ex3/Ex3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista_5/Ex4/Ex4.iml" filepath="$PROJECT_DIR$/Lista_5/Ex4/Ex4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista_5/Ex5/Ex5.iml" filepath="$PROJECT_DIR$/Lista_5/Ex5/Ex5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ex_Lista_Encadeada/Ex_Lista_Encadeada.iml" filepath="$PROJECT_DIR$/Ex_Lista_Encadeada/Ex_Lista_Encadeada.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ex_PILHA/Ex_PILHA.iml" filepath="$PROJECT_DIR$/Ex_PILHA/Ex_PILHA.iml" />
       <module fileurl="file://$PROJECT_DIR$/IFGOIANO_ED1.iml" filepath="$PROJECT_DIR$/IFGOIANO_ED1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lista_2/Lista_2.iml" filepath="$PROJECT_DIR$/Lista_2/Lista_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lista_3/Lista_3.iml" filepath="$PROJECT_DIR$/Lista_3/Lista_3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lista_4/Lista_4.iml" filepath="$PROJECT_DIR$/Lista_4/Lista_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista_5/Lista_5.iml" filepath="$PROJECT_DIR$/Lista_5/Lista_5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Problema_Josephus/Problema_Josephus.iml" filepath="$PROJECT_DIR$/Problema_Josephus/Problema_Josephus.iml" />
       <module fileurl="file://$PROJECT_DIR$/TorreDeHanoiPilha/TorreDeHanoiPilha.iml" filepath="$PROJECT_DIR$/TorreDeHanoiPilha/TorreDeHanoiPilha.iml" />
     </modules>
